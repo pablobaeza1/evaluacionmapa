@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">evaluacionmapa</string>
+    <string name="title_activity_cuba">cuba</string>
+    <string name="title_activity_los_angeles">LosAngeles</string>
+    <string name="title_activity_dubai">Dubai</string>
+</resources>
